@@ -7,10 +7,6 @@
 - Time-based trends using line and donut charts
 - Platform-wise engagement breakdown
 
-## 📁 Files Included
-- `dashboard.pbix`: Power BI dashboard file
-- `dashboard_screenshot.png`: Visual preview
-
 ## 📌 Dataset Source
 [Kaggle: Social Media Engagement Dataset](https://www.kaggle.com/datasets/divyaraj2006/social-media-engagement)
 
